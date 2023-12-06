@@ -28,3 +28,10 @@ Run the file "recensoring.R".
 -- STEP 5: PRODUCE FIGURE 7:
 
 Run the file "reproduce_score_plots_2.R".
+
+
+-------------------------------------------------------------
+-- ADDITIONAL EXAMPLE OF VISUALIZATIONS AT DESIGN STAGE    --
+-------------------------------------------------------------
+
+Run the file "nphRCT_design_stage.R".
